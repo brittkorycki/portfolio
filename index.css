@@ -2588,7 +2588,10 @@ input[type="radio"] + label:before {
             height: 20em;
             width: 100%;
         }
-
+/*Card*/
+#card{
+	
+}
 	/* Footer */
 
 #footer {
